@@ -1,0 +1,20 @@
+{
+  "characters": [
+    { 
+      "id": 1,
+      "name": "Elaris",
+      "race": "Elfo",
+      "class": "Mago",
+      "alignment": "Neutro Bom",
+      "background": "Um estudioso que vagueia entre as fronteiras do tempo e da memória, em busca da magia primordial."
+    },
+    {
+      "id": 2,
+      "name": "Kaelen",
+      "race": "Humano",
+      "class": "Bardo",
+      "alignment": "Caótico Bom",
+      "background": "Cantor de tavernas e desertos, conhecido por transformar memórias em canções."
+    }
+  ]
+}
